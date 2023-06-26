@@ -11,7 +11,7 @@ this project have syncronization support for handling payments.
 
 **Client:** Next ,HTML ,CSS ,typescript ,Docker
 
-**Server:** nest ,Express ,SQL, nats-streaming-server , SKAFFOLD , Kubernetes
+**Server:** nest ,Express ,Mongo DB, nats-streaming-server , SKAFFOLD , Kubernetes
 
 
 ## Authors
